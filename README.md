@@ -10,6 +10,7 @@ I made this site because I never remember the options to tar
 - explanations of the command line flags for tar
 - docs for going the other way (compressing files)
 
-honestly I don't know that much, if you would like to contribute, awesome
-- just write up what's best and I'll take care of the rest.
+honestly I don't know that much about compression if you would like to
+contribute, awesome. just write up the best things to do and I'll take care of
+the rest
 
