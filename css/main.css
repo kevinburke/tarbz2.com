@@ -113,7 +113,6 @@ html, body {
     margin-top: -90px;
     position: relative;
     height: 90px;
-    text-align: right;
 }
 
 .footer a {
@@ -122,6 +121,10 @@ html, body {
 
 .footer-copy {
     margin-top: 10px;
+}
+
+.small {
+    font-size: 12px;
 }
 
 .headline {
