@@ -93,15 +93,72 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+html, body {
+    background-color: #01D2FF;
+    color: #fff;
+    font-family: "Arvo", serif;
+    height: 100%;
+}
 
+.wrapper {
+    height: auto; 
+    min-height: 100%;
+}
 
+.container {
+    padding-bottom: 90px;
+}
 
+.footer {
+    margin-top: -90px;
+    position: relative;
+    height: 90px;
+    text-align: right;
+}
 
+.footer a {
+    color: #34495E;
+}
 
+.footer-copy {
+    margin-top: 10px;
+}
 
+.headline {
+    margin-bottom: 2em;
+}
 
+.examples td,
+.examples th {
+    text-align: left;
+    padding: 20px;
+}
 
+.code, code {
+    font-family: "Droid Sans", Consolas, "Andale Mono", Monaco, Menlo, monospace;
+}
 
+.row code {
+    font-size: 24px;
+}
+
+.row pre {
+    padding: 15px;
+    margin-bottom: 0;
+}
+
+@media (max-width: 767px) { 
+    .row pre {
+        margin-bottom: 10px; 
+    }
+}
+
+hr {
+    color: #fff;
+    background-color: #fff;
+    margin: 2em auto;
+    max-width: 700px;
+}
 
 
 
