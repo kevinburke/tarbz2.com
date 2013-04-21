@@ -121,6 +121,7 @@ html, body {
 
 .footer-copy {
     margin-top: 10px;
+    text-align: right;
 }
 
 .small {
@@ -133,7 +134,7 @@ html, body {
 
 .arrow {
     font-size: 40px;
-    padding-left: 16px;
+    padding-left: 65px;
     box-sizing: border-box;
 }
 
